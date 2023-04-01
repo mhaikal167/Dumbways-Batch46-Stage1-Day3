@@ -18,4 +18,5 @@ function getData(){
         subject:subject,
         message:message,
     }
+    console.log(data);
 }
